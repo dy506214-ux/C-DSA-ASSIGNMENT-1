@@ -1,0 +1,17 @@
+# Compiled C executables
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
